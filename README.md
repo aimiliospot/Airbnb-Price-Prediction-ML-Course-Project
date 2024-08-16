@@ -37,6 +37,10 @@ Install the dependecies:
 
 Use `main.ipynb` notebook
 
+## Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=python,sklearn)](https://skillicons.dev)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
